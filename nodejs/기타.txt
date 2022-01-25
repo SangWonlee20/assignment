@@ -1,0 +1,11 @@
+http : protocol
+
+naver.com : host(domain)
+
+3000 : port번호
+
+80번은 웹서버의 기본 주소
+
+/main : path
+
+? id = html= 12   : query string 
